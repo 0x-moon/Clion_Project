@@ -1,3 +1,3 @@
 # Clion_Project
-算法题和c++项目
+c++项目
 
